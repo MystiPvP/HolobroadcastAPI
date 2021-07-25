@@ -1,3 +1,11 @@
+/*
+ * Copyright (c) 2021.
+ *
+ * This project (Holobroadcast) and this file is part of Romain Storaï (_Rolyn) and Nathan Djian-Martin (DevKrazy)
+ *
+ * Holobroadcast cannot be copied and/or distributed without the express permission of Romain Storaï (_Rolyn) and Nathan Djian-Martin (DevKrazy)
+ */
+
 package net.mystipvp.holobroadcast.events;
 
 import org.bukkit.command.CommandSender;
